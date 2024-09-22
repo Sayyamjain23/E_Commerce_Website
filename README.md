@@ -88,14 +88,10 @@ Project Structure
 
 Future Improvements
 
-User Authentication**: Add login/logout functionality for personalized shopping experiences.
-Payment Integration**: Connect with payment gateways such as PayPal or Stripe.
+User Authentication: Add login/logout functionality for personalized shopping experiences.
+Payment Integration: Connect with payment gateways such as PayPal or Stripe.
 Order History: Allow users to view past purchases.
 Product Search & Filters**: Enable users to search for products and filter by category, price, etc.
-
-License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Contributing
 
